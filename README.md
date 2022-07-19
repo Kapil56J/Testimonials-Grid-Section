@@ -7,14 +7,14 @@ As most of my work, this solution is being coinstantly updated as i learn new th
 
 ## Table of Contents
 * Overview
-    * [The Challange]()
-    * [Screenshot]()
+    * [The Challange](#the-challange)
+    * [Screenshot](#screenshot)
     * [Links](https://github.com/Kapil56J/3-Column-Preview-Component/edit/main/README.md)
 
 * My Process
-    * [Built with]()
-    * [Continued Devlopement]()
-* [Author]()
+    * [Built with](#build-with)
+    * [Continued Devlopement](#continued-devlopment)
+* [Author](#author)
 ## Overview
 
 * The Challange
@@ -30,12 +30,12 @@ Users Should be able to:
 
 * Desktop-Preview
 
-![Desktop-View](https://user-images.githubusercontent.com/103952813/179387620-51a0f947-52e9-45d4-ac68-99e8541026ea.jpg)
+![Desktop-View]()
 
 * Mobile-Preview
 
 
-![mobile-design](https://user-images.githubusercontent.com/103952813/179387639-8b7e09cd-1078-4980-83e9-8d3776e606a1.jpg)
+![mobile-design]()
 
 
 ## Links
