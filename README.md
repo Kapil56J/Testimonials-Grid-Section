@@ -9,7 +9,7 @@ As most of my work, this solution is being coinstantly updated as i learn new th
 * Overview
     * [The Challange](#overview)
     * [Screenshot](#screenshots)
-    * [Links](https://github.com/Kapil56J/3-Column-Preview-Component/edit/main/README.md)
+    * [Links]()
 
 * My Process
     * [Built with](#build-with)
