@@ -23,7 +23,7 @@ As most of my work, this solution is being coinstantly updated as i learn new th
 Users Should be able to:
 
 * Is the optimal layout depending on their device's screen size.
-* See hover states for interactive elements
+* See colors states for interactive elements
 
 
 ## Screenshots
