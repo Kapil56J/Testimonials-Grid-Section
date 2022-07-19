@@ -7,13 +7,13 @@ As most of my work, this solution is being coinstantly updated as i learn new th
 
 ## Table of Contents
 * Overview
-    * [The Challange](#the-challange)
-    * [Screenshot](#screenshot)
+    * [The Challange](#overview)
+    * [Screenshot](#screenshots)
     * [Links](https://github.com/Kapil56J/3-Column-Preview-Component/edit/main/README.md)
 
 * My Process
     * [Built with](#build-with)
-    * [Continued Devlopement](#continued-devlopment)
+    * [Continued Developement](#continued-development)
 * [Author](#author)
 ## Overview
 
