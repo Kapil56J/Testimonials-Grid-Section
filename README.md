@@ -42,7 +42,7 @@ Users Should be able to:
 
 Netifly Host Link:
 
-![Host Link](https://sparkling-valkyrie-f63d37.netlify.app/)
+-[Host Link](https://sparkling-valkyrie-f63d37.netlify.app/)
 
 
 
