@@ -1,7 +1,7 @@
 # Testimonials Grid Section
 
-This is a Project soltion to the Testimonials Grid Section.
-As most of my work, this solution is being coinstantly updated as i learn new things and find better soltuions for my problems, so please take this into consideration. :)
+This is a Project solution to the Testimonials Grid Section.
+As most of my work, this solution is being constantly updated as i learn new things and find better soltuions for my problems, so please take this into consideration. :)
 
 
 
@@ -49,7 +49,7 @@ Netifly Host Link:
 
 ## My Process
 
-Worked on displaying cards as given in the design. Added media queries for smaller devices to show optimal layout to the user.
+ Added media queries for smaller devices to show optimal layout to the user.
 ## Build with
 
 * Semantic HTML5 markup
