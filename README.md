@@ -32,7 +32,7 @@ Users Should be able to:
 
 ![Desktop-View](https://user-images.githubusercontent.com/103952813/179766924-8c0e184d-cb28-4346-8110-7423c7ce9633.jpg)
 
-* Mobile-Preview
+* Mobile-Preview 
 
 
 ![mobile-design](https://user-images.githubusercontent.com/103952813/179767072-70e76519-a3da-4064-9b2e-65322f396f3e.jpg)
